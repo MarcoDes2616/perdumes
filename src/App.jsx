@@ -37,7 +37,7 @@ function App() {
       {/* Sección de inicio */}
       <header id="home" className="app-header">
         <img src={logo} alt="Logo de la empresa" className="logo" />
-        <h1 className="title">Perfumes Elegance</h1>
+        <h1 className="title">Perfumes A&A</h1>
         <p className="description">
           Descubre la esencia de la elegancia con nuestra exclusiva línea de perfumes. Fragancias únicas y duraderas
           que capturan la esencia de cada momento.
