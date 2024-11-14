@@ -73,6 +73,14 @@ function App() {
           <li>Orientales</li>
         </ul>
       </section>
+      <section id="bestsellers" className="section">
+        <h2>Integrantes:</h2>
+        <ul>
+          <li>Ashley Ojeda</li>
+          <li>Ariannys Gimenez</li>
+          <li>Yriannys Gimenez</li>
+        </ul>
+      </section>
     </div>
   );
 }
